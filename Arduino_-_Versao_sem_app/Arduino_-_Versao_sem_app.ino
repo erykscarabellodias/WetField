@@ -28,8 +28,8 @@ for (int i = 0; i < sizeof (arrayVezesPorDia); i++) {
     }
 
 //as linhas abaixo devem ser descomentadas para configurar o relógio interno. Descomente, carregue o código para o arduino, comente novamente e suba o código mais uma vez.
- // rtc.setDate(18,5,2019);    // determina a data (dia, mes, ano)
- // rtc.setDOW(FRIDAY);     // determina o dia da semana
+ // rtc.setDate(30,5,2019);    // determina a data (dia, mes, ano)
+ // rtc.setDOW(THURSDAY);     // determina o dia da semana
  // rtc.setTime(15,41, 0);     // determina o horário (hora, minuto, segundo)
 
 // desliga o relé para começar.
